@@ -11,6 +11,3 @@ __pycache__/
 # Log dan lock dari scripts/jalankan_harian.sh
 *.log
 .harian.lock
-
-# Catatan pribadi Claude Code
-CLAUDE.md
