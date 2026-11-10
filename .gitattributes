@@ -1,0 +1,3 @@
+# Script shell harus berakhiran baris LF walaupun di-commit dari Windows,
+# kalau tidak bash di VPS gagal membacanya.
+*.sh text eol=lf
